@@ -1,0 +1,11 @@
+[ignore]
+.*/**/malformed_package_json/package.json
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
